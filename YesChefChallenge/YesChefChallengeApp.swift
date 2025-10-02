@@ -8,9 +8,13 @@
 import SwiftUI
 
 @main
+
 struct YesChefChallengeApp: App {
+        
     var body: some Scene {
+        
         WindowGroup {
+            
             ContentView()
         }
     }
